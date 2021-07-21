@@ -1,7 +1,7 @@
 # Site-Hulu-Clone
 
 
-Esse é um clone do site do <a  href="#">Hulu.com</a>. 
+Esse é um clone do site do <a  href="https://www.hulu.com/welcome" target="_blank">Hulu.com</a>
 
 
 Onde eu fiz pra aprender mais sobre grid, e flexbox, e responsividade.
